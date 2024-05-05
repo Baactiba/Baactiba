@@ -4,9 +4,9 @@ I am Lucas, aka Baactiba.
 
 Reasons you might know me:
 
-  Former Wordle research
+  Wordle research
   
-  2048 
+  2048 3x3 Trainer
   
   chessnoobs.com
 
